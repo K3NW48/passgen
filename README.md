@@ -1,2 +1,2 @@
 # passgen
-A shell script to generate multiple base64 passwords based on user's input length.
+A shell script to generate multiple base64 passwords from user's input length.
